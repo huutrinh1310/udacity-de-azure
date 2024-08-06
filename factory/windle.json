@@ -1,0 +1,9 @@
+{
+	"name": "windle",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "089bd7a0-1b6f-4dbc-a479-c164f1ba5778",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
